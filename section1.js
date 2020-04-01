@@ -1,7 +1,7 @@
 // SECTION 1 - BASICS
 
 // Ep1
-let city = 'Leeds';
+let city = 'London';
 let country = 'England';
 let location = city + ',' + ' ' +  country;
 
